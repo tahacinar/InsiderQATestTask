@@ -5,4 +5,4 @@ Bu çalışma kapsamında, https://www.shino.de/parkcalc/ adresindeki park ücre
 
 # Insider Web Sitesi Test Otomasyonu
 Bu proje, Insider web sitesinde belirli sayfaların ve iş ilanlarının doğrulanmasını amaçlayan bir test otomasyonu projesidir. Testler, Java ve Selenium kullanılarak geliştirilmiştir ve Page Object Model (POM) prensiplerine uygun olarak yapılandırılmıştır.
-![insiderwebsitesi](https://github.com/user-attachments/assets/eca91d8c-3914-4fab-936f-03b6d0f16521)
+![insiderwebsitesi](https://github.com/user-attachments/assets/d54501a3-cd9f-4480-bd38-3a8d9b2420eb)
